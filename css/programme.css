@@ -1,0 +1,57 @@
+.container-programme{
+  width: 420px;
+  height: 559px;
+  background-color: #ccc6b5;
+  margin-bottom: 52px;
+  margin-top: 35px;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-evenly;
+    box-shadow: 10px 5px 5px lightgray;
+}
+
+.container-programme img{
+  width: 311px;
+  height: 188px;
+  margin-top: 27px;
+  margin-left: 20px;
+}
+
+.film-details h6 {
+  text-align: center;
+  position: absolute;
+  margin-left: -250px;
+  margin-top: 225px;
+    font-family: 'tilt neon';
+}
+
+.film-description p{
+text-align: justify;
+  position: absolute;
+  margin-left: -371px;
+  margin-top: 254px;
+  width: 376px;
+  height: 300px;
+  font-family: 'tilt neon';
+}
+
+.programme-title{
+  text-align: center;
+  color: #E6C771;
+  padding: 10px;
+    font-family: 'tilt neon';
+}
+
+.btn-reserver{
+  position: absolute;
+  margin-top: 504px;
+  margin-left: -250px;
+    font-family: 'tilt neon';
+}
+
+h5{
+  position: relative;
+  top: -22px;
+  left: 169px;
+    font-family: 'tilt neon';
+}

@@ -1,0 +1,16 @@
+.film{
+width: 370px;
+height: 577px;
+border-radius: 3px;
+}
+
+.btn-film{
+  position: absolute;
+  margin: -62px;
+  margin-left: 130px;
+    font-family: 'tilt neon';
+}
+
+.container-films{
+  width: 1405px;
+}
